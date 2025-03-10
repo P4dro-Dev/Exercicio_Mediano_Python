@@ -1,3 +1,6 @@
+# Simula a previsão do tempo com base na temperatura e umidade.
+# Exibe mensagens específicas para diferentes combinações de temperatura e umidade.
+
 temperatura = float(input("Temperatura atual: "))
 umidade = float(input("Nível de umidade do ar (%): "))
 

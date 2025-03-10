@@ -1,3 +1,6 @@
+# Solicita o número de alunos e, para cada um, verifica o tempo de exercício semanal.
+# Exibe uma mensagem com base no tempo: menos de 150min, entre 150 e 300min, ou acima de 300min.
+
 num_alunos = int(input("Número de alunos: "))
 
 for _ in range(num_alunos):

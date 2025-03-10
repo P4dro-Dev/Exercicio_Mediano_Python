@@ -1,3 +1,6 @@
+# Simula uma corrida de carros, calculando a média de tempo dos competidores.
+# Compara a média com o tempo ideal e exibe uma mensagem correspondente.
+
 tempo_ideal = float(input("Tempo médio ideal da prova (segundos): "))
 num_competidores = int(input("Quantidade de competidores: "))
 total_tempo = 0

@@ -1,3 +1,6 @@
+# Verifica se uma sequência de 10 números atende às regras para acesso:
+# Somatório par, primeiro número ímpar, último número par e média maior que 5.
+
 numeros = [int(input(f"Digite o {i+1}º número: ")) for i in range(10)]
 somatorio = sum(numeros)
 primeiro_impar = numeros[0] % 2 != 0

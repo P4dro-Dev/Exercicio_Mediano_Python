@@ -1,3 +1,6 @@
+# Monitora o estoque de produtos, classificando em Baixo, Médio ou Alto.
+# No final, exibe o total de produtos em cada categoria e a média do estoque.
+
 num_produtos = int(input("Número de produtos: "))
 baixo = medio = alto = total_quantidade = 0
 
