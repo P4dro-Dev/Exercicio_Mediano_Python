@@ -1,2 +1,2 @@
 # Exercicio_Mediano_Py
-Nesse exercício, realizei ce
+Nesse exercício, realizei c
