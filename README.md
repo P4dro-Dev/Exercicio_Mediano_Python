@@ -1,2 +1,2 @@
-# Exercici_Mediano_P
+# Exercici_Mediano_
 
