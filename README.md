@@ -1,2 +1,2 @@
-# Exercicio_Mediano_Pyth
+# Exercicio_Mediano_Pyt
 Nesse exercício, realizei cerca de 5 questões de nível básico de Python. Como tare
