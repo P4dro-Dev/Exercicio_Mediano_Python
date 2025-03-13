@@ -1,2 +1,2 @@
 # Exercicio_Mediano_P
-Nesse exerc
+Nesse exer
