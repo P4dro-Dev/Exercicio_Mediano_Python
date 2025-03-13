@@ -1,2 +1,2 @@
-# Exercici_Media
+# Exercici_Medi
 
