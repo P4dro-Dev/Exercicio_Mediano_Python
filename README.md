@@ -1,2 +1,2 @@
-# Exercicio_Mediano_P
+# Exercici_Mediano_P
 Ness
