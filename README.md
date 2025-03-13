@@ -1,2 +1,2 @@
-# Exercici_Medi
+# Exercici_Med
 
