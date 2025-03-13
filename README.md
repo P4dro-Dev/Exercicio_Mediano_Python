@@ -1,2 +1,2 @@
-# Exerci
+# Exerc
 
