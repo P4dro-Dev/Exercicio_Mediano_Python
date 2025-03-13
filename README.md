@@ -1,2 +1,2 @@
 # Exercicio_Mediano_P
-Nesse exercício, reali
+Nesse exercício, rea
